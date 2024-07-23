@@ -1,4 +1,53 @@
 body{
-background-color: red
+background-color: rgb(227, 220, 220)
+}
+#h1{
+background-color: rgb(220, 237, 237);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align:center ;
+margin: 15px;
+margin-top: 25px;
+margin-bottom:25px ;
+margin-right:100px ;
+margin-left: 100px;
 
 }
+.c1{
+   
+    padding: 150px; 
+padding-left: 100px;
+padding-right:100px ;
+padding-top: 75px;
+padding-bottom:75px ;
+}
+#ul{
+ background-color: burlywood;
+padding: 105px;
+  padding-left: 100px;
+
+padding-top:5px ;
+padding-bottom:5px ;
+}
+#p{
+ text-align: center;
+padding-bottom: 10px;
+margin-bottom: 25px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+hr.solid {
+    border-top: 3px solid #bbb;
+  }
+  .li{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  }
+  body{
+background-image: url("images\ \(2\).jpg");
+background-position: center;
+background-repeat: no-repeat;
+border: #bbb;
+}
+  #foot{
+background-color: bisque;
+
+  }

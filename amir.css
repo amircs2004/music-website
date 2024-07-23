@@ -1,6 +1,6 @@
 #div1{
   background-color: rgb(225, 225, 225);
-margin: 100px;
+margin: 50px;
 }
 .h1{
 color: #1a0c02;
@@ -15,21 +15,32 @@ color: rgb(50, 29, 1);
 #div2{
  padding-left: 10px ;
 padding-right: 10px;
-margin: 75px ;
-padding-bottom:5px ;
+margin: 50px ;
+padding-bottom: 50px;
     background-color: rgb(244, 214, 170);
 }
 body{
     background-color: rgb(53, 28, 38);
 }
 #sec{
-  background-color: rgb(255, 255, 255);
- margin-bottom: 40px;
- margin-top: 50px;
+ /* background-color: rgb(255, 255, 255);*/
+ 
+ 
 padding-bottom:  100px;
 }
 #p2{
-    font-family: 'Courier New', Courier, monospace;
-    font-size: medium;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
     color: #110801;
+    width: 100px 100px;
+  height: 120px 120px;
 }
+body{
+   background-image: url("vynal\ player.jpg") ;
+   background-position: center;
+   background-repeat: repeat-x;
+  border-image-repeat: stretch;
+}
+hr.solid {
+    border-top: 3px solid #bbb;
+  }

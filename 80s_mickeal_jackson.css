@@ -1,0 +1,21 @@
+.c1{
+  background-color: rgb(200, 167, 167);
+}
+.img{
+padding: 15px 30px;
+box-sizing: border-box;
+}
+#div2{
+   background-color: rgb(222, 99, 99);
+ 
+}
+#img{
+    padding: 157px 320px;
+   box-sizing: border-box;
+   margin: 57px 32px;
+}
+#para{
+ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 400;
+  scale: 0;
+}
